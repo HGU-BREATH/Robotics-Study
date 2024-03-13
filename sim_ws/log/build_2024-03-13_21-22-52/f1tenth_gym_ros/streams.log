@@ -1,0 +1,23 @@
+[1.863s] Invoking command in '/home/oem/sim_ws/src/f1tenth_gym_ros': PYTHONPATH=/home/oem/sim_ws/build/f1tenth_gym_ros/prefix_override:/home/oem/sim_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/f1tenth_gym_ros build --build-base /home/oem/sim_ws/build/f1tenth_gym_ros/build install --record /home/oem/sim_ws/build/f1tenth_gym_ros/install.log --install-scripts $base/lib/f1tenth_gym_ros --single-version-externally-managed
+[2.022s] running egg_info
+[2.022s] writing ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/PKG-INFO
+[2.023s] writing dependency_links to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/dependency_links.txt
+[2.023s] writing entry points to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/entry_points.txt
+[2.023s] writing requirements to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/requires.txt
+[2.023s] writing top-level names to ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/top_level.txt
+[2.048s] reading manifest file '../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/SOURCES.txt'
+[2.048s] writing manifest file '../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/SOURCES.txt'
+[2.048s] running build
+[2.048s] running build_py
+[2.049s] running install
+[2.049s] running install_lib
+[2.050s] running install_data
+[2.051s] copying launch/gym_bridge_launch.py -> /home/oem/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/launch
+[2.051s] copying launch/gym_bridge.rviz -> /home/oem/sim_ws/install/f1tenth_gym_ros/share/f1tenth_gym_ros/launch
+[2.051s] running install_egg_info
+[2.052s] removing '/home/oem/sim_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages/f1tenth_gym_ros-0.0.0-py3.8.egg-info' (and everything under it)
+[2.052s] Copying ../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info to /home/oem/sim_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages/f1tenth_gym_ros-0.0.0-py3.8.egg-info
+[2.053s] running install_scripts
+[2.065s] Installing gym_bridge script to /home/oem/sim_ws/install/f1tenth_gym_ros/lib/f1tenth_gym_ros
+[2.065s] writing list of installed files to '/home/oem/sim_ws/build/f1tenth_gym_ros/install.log'
+[2.079s] Invoked command in '/home/oem/sim_ws/src/f1tenth_gym_ros' returned '0': PYTHONPATH=/home/oem/sim_ws/build/f1tenth_gym_ros/prefix_override:/home/oem/sim_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/f1tenth_gym_ros build --build-base /home/oem/sim_ws/build/f1tenth_gym_ros/build install --record /home/oem/sim_ws/build/f1tenth_gym_ros/install.log --install-scripts $base/lib/f1tenth_gym_ros --single-version-externally-managed

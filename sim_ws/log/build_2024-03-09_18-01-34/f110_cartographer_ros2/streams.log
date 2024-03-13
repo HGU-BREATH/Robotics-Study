@@ -1,0 +1,22 @@
+[2.136s] Invoking command in '/home/oem/sim_ws/src/f110_cartographer_ros2': PYTHONPATH=/home/oem/sim_ws/build/f110_cartographer_ros2/prefix_override:/home/oem/sim_ws/install/f110_cartographer_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/f110_cartographer_ros2 build --build-base /home/oem/sim_ws/build/f110_cartographer_ros2/build install --record /home/oem/sim_ws/build/f110_cartographer_ros2/install.log --single-version-externally-managed
+[2.306s] running egg_info
+[2.306s] writing ../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info/PKG-INFO
+[2.306s] writing dependency_links to ../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info/dependency_links.txt
+[2.306s] writing entry points to ../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info/entry_points.txt
+[2.307s] writing requirements to ../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info/requires.txt
+[2.307s] writing top-level names to ../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info/top_level.txt
+[2.336s] reading manifest file '../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info/SOURCES.txt'
+[2.339s] writing manifest file '../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info/SOURCES.txt'
+[2.339s] running build
+[2.339s] running build_py
+[2.339s] running install
+[2.339s] running install_lib
+[2.341s] running install_data
+[2.341s] copying launch/cartographer.launch.py -> /home/oem/sim_ws/install/f110_cartographer_ros2/share/f110_cartographer_ros2/launch/
+[2.341s] copying cartographer_config/f110_2d.lua -> /home/oem/sim_ws/install/f110_cartographer_ros2/share/f110_cartographer_ros2/cartographer_config/
+[2.346s] running install_egg_info
+[2.347s] removing '/home/oem/sim_ws/install/f110_cartographer_ros2/lib/python3.8/site-packages/f110_cartographer_ros2-0.0.0-py3.8.egg-info' (and everything under it)
+[2.347s] Copying ../../build/f110_cartographer_ros2/f110_cartographer_ros2.egg-info to /home/oem/sim_ws/install/f110_cartographer_ros2/lib/python3.8/site-packages/f110_cartographer_ros2-0.0.0-py3.8.egg-info
+[2.348s] running install_scripts
+[2.362s] writing list of installed files to '/home/oem/sim_ws/build/f110_cartographer_ros2/install.log'
+[2.627s] Invoked command in '/home/oem/sim_ws/src/f110_cartographer_ros2' returned '0': PYTHONPATH=/home/oem/sim_ws/build/f110_cartographer_ros2/prefix_override:/home/oem/sim_ws/install/f110_cartographer_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/f110_cartographer_ros2 build --build-base /home/oem/sim_ws/build/f110_cartographer_ros2/build install --record /home/oem/sim_ws/build/f110_cartographer_ros2/install.log --single-version-externally-managed
